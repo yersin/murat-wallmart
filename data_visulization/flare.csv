@@ -1,0 +1,1991 @@
+id,value
+Source,
+Source.ningbo,
+Source.san antonio,
+Source.taichung,
+Source.bremerhaven,
+Source.bugo,
+Source.busan,
+Source.chittagong,
+Source.chiwan,
+Source.colombo,
+Source.hai phong,
+Source.hamburg (200xx),
+Source.hochiminh,
+Source.jawaharlal nehru,
+Source.jawaharlal nehruj,
+Source.jebel ali dubai,
+Source.kanpur,
+Source.mombasa,
+Source.moron de la front,
+Source.new delhi,
+Source.panipat,
+Source.pasir gudang,
+Source.port qasim,
+Source.purto limon,
+Source.san lorenzo,
+Source.startrack,
+Source.sto tomas d/casti,
+Source.tuticorin,
+Source.xiamen,
+Source.yantian,
+Source.chachagua,
+Source.la fortuna,
+Source.ujarras,
+Source.aarhus,
+Source.aarhus {arhus},
+Source.albano san alessa,
+Source.barcelona,
+Source.bremen,
+Source.cantoria,
+Source.caprino veronese,
+Source.casnigo,
+Source.castleton,
+Source.cologne,
+Source.copenhagen,
+Source.costa rica,
+Source.espartinas,
+Source.fredericia,
+Source.fuzhou,
+Source.gdynia,
+Source.genoa,
+Source.gothenburg - cy,
+Source.grangemouth,
+Source.grezzana,
+Source.hong kong,
+Source.koeln,
+Source.koeln - door,
+Source.la spezia,
+Source.leghorn,
+Source.livorno,
+Source.puerto limon,
+Source.rainham,
+Source.rochdale,
+Source.santos,
+Source.shanghai,
+Source.tarragona,
+Source.thamesport,
+Source.west horndon,
+Source.ningbo - cy,
+Source.vancouver,
+Source.all oth peoples r,
+Source.bangkok,
+Source.bao-an,
+Source.busan ,
+Source.busan korea,
+Source.cartagena,
+Source.changzhou,
+Source.chennai (formerly,
+Source.cochin,
+Source.constantza,
+Source.dachan bay,
+Source.dalian,
+Source.haifa,
+Source.haiphong,
+Source.ho chi minh city,
+Source.hochiminh city,
+Source.hong kong cfs,
+Source.houston,
+Source.jakarta,
+Source.jiuzhou,
+Source.kampong saom (sih,
+Source.kaohsiung,
+Source.karachi,
+Source.kobe,
+Source.kobe cy,
+Source.kobe kline termi,
+Source.kobe/mol termina,
+Source.kolkata(calcutta),
+Source.laem chabang,
+Source.lat krabang,
+Source.manila,
+Source.manila north port,
+Source.mawei fuzhou,
+Source.moji cy,
+Source.nagoya,
+Source.nanjing,
+Source.nansha,
+Source.nantong,
+Source.ning bo,
+Source.osaka,
+Source.otake cy,
+Source.phnom penh,
+Source.port klang,
+Source.port klang (pelab,
+Source.pusan,
+Source.qingdao,
+Source.qingdao sd,
+Source.rongqi,
+Source.shimizu,
+Source.shunde(rongqi),
+Source.singapore,
+Source.tanjung pelepas,
+Source.tianjinxingang,
+Source.tokyo,
+Source.tokyo cy,
+Source.tokyo kline term,
+Source.tokyo/alliance,
+Source.wuhan,
+Source.xiamen fj,
+Source.xingang,
+Source.yangzhou,
+Source.yichang,
+Source.yokohama,
+Source.zhangjiagang,
+Source.zhapu,
+Source.zhenjiang,
+Source.zhuhai,
+Source.ahmedabad,
+Source.belawan,
+Source.busan - cy,
+Source.busan cy korea,
+Source.cebu city,
+Source.chachoengsao,
+Source.chennai,
+Source.chittagong - cy,
+Source.chittagong - port,
+Source.da nang,
+Source.fuzhou maiwei ter,
+Source.fuzhou(mawei),
+Source.gaolan,
+Source.gwangyang,
+Source.hiroshima cy,
+Source.ho chi minh,
+Source.hong kong - cy,
+Source.huangpu,
+Source.jiangmen,
+Source.keelung,
+Source.keelung kaohsiung,
+Source.kochi,
+Source.kolkata,
+Source.madras(chennai),
+Source.manila north,
+Source.melbourne,
+Source.moji,
+Source.moradabad,
+Source.nansha new port,
+Source.ningbo city,
+Source.phetchaburi,
+Source.port kelang,
+Source.qingdao city,
+Source.samut prakan,
+Source.samut sakhon,
+Source.samutprakan,
+Source.samutsakhon,
+Source.scandicci,
+Source.semarang,
+Source.shanghai city,
+Source.shanghai sh,
+Source.shimizu cy,
+Source.sihanoukville,
+Source.singaoore,
+Source.surabaya,
+Source.taichung - cy,
+Source.taichung taiwan c,
+Source.tanjung priok,
+Source.taoyuan,
+Source.tw,
+Source.ube,
+Source.valparaiso,
+Source.vishakhapatnam,
+Source.vung tau,
+Source.yantian - cy,
+Source.yantian distric,
+Source.yantian gd,
+Source.yokkaichi,
+Source.cristobal,
+Source.guatemala,
+Source.guayaquil,
+Source.guayaquil ,
+Source.guayaquil - tpg -,
+Source.rio haina,
+Source.rotterdam,
+Source.santo tomas d/cas,
+Source.vitoria,
+Source.almeria,
+Source.almoradi,
+Source.antwerp,
+Source.aqaba,
+Source.arica,
+Source.ashford,
+Source.buenos aires,
+Source.calcutta,
+Source.cape town,
+Source.civitavecchia,
+Source.dundalk,
+Source.durban,
+Source.gautam budhh naga,
+Source.getafe,
+Source.hamburg,
+Source.hyderabad,
+Source.liverpool,
+Source.ludhiana,
+Source.mongla - cy,
+Source.mundra,
+Source.nagpur,
+Source.naples,
+Source.navegantes,
+Source.newport/gwent,
+Source.pandjang,
+Source.spoleto,
+Source.tamatave,
+Source.thessaloniki,
+Source.toronto,
+Source.valencia,
+Source.valparaiso - cy,
+Source.visakhapatnam,
+Source.vittorio veneto,
+Source.algeciras,
+Source.choluteca,
+Source.dadri,
+Source.damietta,
+Source.gothenburg,
+Source.managua,
+Source.mersin,
+Source.niigata,
+Source.pecem ce br,
+Source.port said,
+Source.port said east,
+Source.ribecourt,
+Source.santa rosa montel,
+Source.santo tomas de ca,
+Source.shuwaikh,
+Source.songkhla,
+Source.tallinn/muuga,
+Source.jiangyin,
+Source.santiago sacatep,
+Source.chile,
+Source.coquimbo,
+Source.bilbao,
+Source.cadiz,
+Source.fossano,
+Source.malaga,
+Source.estado de mexico,
+Source.fuqing,
+Source.manila (north har,
+Source.marcallo con caso,
+Source.panjang port,
+Source.tribiano,
+Source.beijiao,
+Source.changsha,
+Source.ho chi minh cit,
+Source.shashi,
+Source.xiamen - cy,
+Source.xiaolan,
+Source.yantian cn,
+Source.zhongshan,
+Source.jiaxing,
+Source.manila north harb,
+Source.nanhai,
+Source.shunde,
+Source.vadodara,
+Source.cn,
+Source.ningbo.chicago,
+Source.san antonio.chicago,
+Source.taichung.philadelphia,
+Source.bremerhaven.atlanta,
+Source.bremerhaven.greenville-spartanburg,
+Source.bugo.jacksonville,
+Source.busan.savannah,
+Source.chittagong.chicago,
+Source.chittagong.savannah,
+Source.chiwan.houston,
+Source.colombo.miami,
+Source.hai phong.savannah,
+Source.hamburg (200xx).atlanta,
+Source.hochiminh.savannah,
+Source.jawaharlal nehru.baltimore,
+Source.jawaharlal nehru.houston,
+Source.jawaharlal nehru.miami,
+Source.jawaharlal nehru.mobile,
+Source.jawaharlal nehru.savannah,
+Source.jawaharlal nehruj.atlanta,
+Source.jebel ali dubai.nashville,
+Source.kanpur.houston,
+Source.mombasa.miami,
+Source.moron de la front.chicago,
+Source.new delhi.savannah,
+Source.panipat.savannah,
+Source.pasir gudang.savannah,
+Source.port qasim.chicago,
+Source.port qasim.houston,
+Source.purto limon.chicago,
+Source.san lorenzo.charleston,
+Source.startrack.memphis,
+Source.startrack.savannah,
+Source.sto tomas d/casti.chicago,
+Source.tuticorin.houston,
+Source.tuticorin.savannah,
+Source.xiamen.savannah,
+Source.yantian.chicago,
+Source.chachagua.buffalo-niagara falls,
+Source.la fortuna.buffalo-niagara falls,
+Source.ujarras.buffalo-niagara falls,
+Source.aarhus.houston,
+Source.aarhus.morgan city,
+Source.aarhus {arhus}.laredo,
+Source.albano san alessa.laredo,
+Source.barcelona.albuquerque,
+Source.barcelona.del rio,
+Source.barcelona.denver,
+Source.barcelona.laredo,
+Source.bremen.el paso,
+Source.bremerhaven.dallas/ft,
+Source.bremerhaven.hidalgo,
+Source.bremerhaven.new orleans,
+Source.bremerhaven.pascagoula,
+Source.cantoria.los angeles,
+Source.caprino veronese.laredo,
+Source.casnigo.el paso,
+Source.castleton.el paso,
+Source.chiwan.chicago,
+Source.cologne.hidalgo,
+Source.copenhagen.laredo,
+Source.costa rica.chicago,
+Source.espartinas.chicago,
+Source.espartinas.los angeles,
+Source.fredericia.laredo,
+Source.fuzhou.chicago,
+Source.gdynia.hidalgo,
+Source.genoa.denver,
+Source.genoa.el paso,
+Source.genoa.houston,
+Source.genoa.laredo,
+Source.genoa.los angeles,
+Source.gothenburg - cy.morgan city,
+Source.grangemouth.denver,
+Source.grangemouth.laredo,
+Source.grezzana.laredo,
+Source.hong kong.chicago,
+Source.koeln.hidalgo,
+Source.koeln - door.hidalgo,
+Source.la spezia.el paso,
+Source.la spezia.morgan city,
+Source.leghorn.chicago,
+Source.leghorn.dallas/ft,
+Source.livorno.el paso,
+Source.ningbo.houston,
+Source.puerto limon.chicago,
+Source.rainham.brownsville,
+Source.rainham.el paso,
+Source.rainham.laredo,
+Source.rainham.new orleans,
+Source.rochdale.brownsville,
+Source.rochdale.dallas/ft,
+Source.rochdale.eagle pass,
+Source.rochdale.el paso,
+Source.santos.los angeles,
+Source.shanghai.chicago,
+Source.shanghai.houston,
+Source.sto tomas d/casti.atlanta,
+Source.sto tomas d/casti.houston,
+Source.tarragona.chicago,
+Source.thamesport.laredo,
+Source.west horndon.chicago,
+Source.xiamen.chicago,
+Source.xiamen.houston,
+Source.yantian.houston,
+Source.yantian.minneapolis-st,
+Source.ningbo - cy.houston,
+Source.vancouver.chicago,
+Source.all oth peoples r.chicago,
+Source.all oth peoples r.houston,
+Source.bangkok.chicago,
+Source.bangkok.houston,
+Source.bangkok.memphis,
+Source.bao-an.chicago,
+Source.busan.chicago,
+Source.busan.greenville-spartanburg,
+Source.busan.houston,
+Source.busan.miami,
+Source.busan.miami international airport ,
+Source.busan.otay mesa station,
+Source.busan.st louis,
+Source.busan .houston,
+Source.busan korea.houston,
+Source.cartagena.el paso,
+Source.changzhou.cleveland,
+Source.chennai (formerly.chicago,
+Source.chiwan.memphis,
+Source.cochin.dallas/ft,
+Source.constantza.chicago,
+Source.dachan bay.atlanta,
+Source.dalian.atlanta,
+Source.dalian.chicago,
+Source.dalian.dallas/ft,
+Source.dalian.houston,
+Source.dalian.salt lake city,
+Source.fuzhou.dallas/ft,
+Source.fuzhou.el paso,
+Source.fuzhou.houston,
+Source.fuzhou.memphis,
+Source.hai phong.chicago,
+Source.hai phong.houston,
+Source.haifa.salt lake city,
+Source.haiphong.chicago,
+Source.haiphong.houston,
+Source.ho chi minh city.chicago,
+Source.ho chi minh city.houston,
+Source.hochiminh city.chicago,
+Source.hong kong.atlanta,
+Source.hong kong.cincinnati,
+Source.hong kong.cleveland,
+Source.hong kong.columbus,
+Source.hong kong.dallas/ft,
+Source.hong kong.el paso,
+Source.hong kong.hidalgo,
+Source.hong kong.houston,
+Source.hong kong.laredo,
+Source.hong kong.memphis,
+Source.hong kong.miami international airport ,
+Source.hong kong.new york/newark area,
+Source.hong kong.nogales,
+Source.hong kong.otay mesa station,
+Source.hong kong cfs.houston,
+Source.houston.chicago,
+Source.jakarta.chicago,
+Source.jakarta.houston,
+Source.jiuzhou.chicago,
+Source.jiuzhou.houston,
+Source.kampong saom (sih.chicago,
+Source.kampong saom (sih.houston,
+Source.kaohsiung.chicago,
+Source.kaohsiung.cleveland,
+Source.kaohsiung.dallas/ft,
+Source.kaohsiung.houston,
+Source.kaohsiung.memphis,
+Source.kaohsiung.new orleans,
+Source.karachi.chicago,
+Source.karachi.houston,
+Source.kobe.cleveland,
+Source.kobe.houston,
+Source.kobe cy.cincinnati,
+Source.kobe cy.detroit,
+Source.kobe cy.new york/newark area,
+Source.kobe kline termi.houston,
+Source.kobe kline termi.new orleans,
+Source.kobe/mol termina.houston,
+Source.kobe/mol termina.new orleans,
+Source.kolkata(calcutta).chicago,
+Source.kolkata(calcutta).houston,
+Source.laem chabang.chicago,
+Source.laem chabang.cincinnati,
+Source.laem chabang.houston,
+Source.lat krabang.houston,
+Source.manila.atlanta,
+Source.manila.houston,
+Source.manila north port.chicago,
+Source.mawei fuzhou.kansas city,
+Source.moji cy.dallas/ft,
+Source.nagoya.dallas/ft,
+Source.nagoya.new orleans,
+Source.nanjing.chicago,
+Source.nanjing.dallas/ft,
+Source.nanjing.detroit,
+Source.nanjing.hidalgo,
+Source.nanjing.houston,
+Source.nanjing.otay mesa station,
+Source.nanjing.st louis,
+Source.nansha.dallas/ft,
+Source.nantong.chicago,
+Source.nantong.cleveland,
+Source.nantong.houston,
+Source.nantong.kansas city,
+Source.nantong.memphis,
+Source.nantong.new orleans,
+Source.ning bo.chicago,
+Source.ningbo.cincinnati,
+Source.ningbo.cleveland,
+Source.ningbo.dallas/ft,
+Source.ningbo.detroit,
+Source.ningbo.kansas city,
+Source.ningbo.memphis,
+Source.ningbo.new orleans,
+Source.ningbo.salt lake city,
+Source.ningbo.st louis,
+Source.ningbo.worcester,
+Source.osaka.dallas/ft,
+Source.osaka.worcester,
+Source.otake cy.chicago,
+Source.otake cy.cleveland,
+Source.pasir gudang.chicago,
+Source.pasir gudang.houston,
+Source.phnom penh.chicago,
+Source.phnom penh.houston,
+Source.port klang.houston,
+Source.port klang (pelab.chicago,
+Source.pusan.charlotte,
+Source.pusan.memphis,
+Source.pusan.otay mesa station,
+Source.qingdao.chicago,
+Source.qingdao.dallas/ft,
+Source.qingdao.houston,
+Source.qingdao.otay mesa station,
+Source.qingdao sd.laredo,
+Source.rongqi.chicago,
+Source.rongqi.houston,
+Source.shanghai.cincinnati,
+Source.shanghai.cleveland,
+Source.shanghai.dallas/ft,
+Source.shanghai.detroit,
+Source.shanghai.el paso,
+Source.shanghai.hidalgo,
+Source.shanghai.kansas city,
+Source.shanghai.louisville,
+Source.shanghai.nashville,
+Source.shanghai.new orleans,
+Source.shanghai.salt lake city,
+Source.shanghai.san antonio,
+Source.shanghai.st louis,
+Source.shimizu.atlanta,
+Source.shimizu.chicago,
+Source.shimizu.cincinnati,
+Source.shimizu.cleveland,
+Source.shimizu.columbus,
+Source.shimizu.houston,
+Source.shimizu.louisville,
+Source.shimizu.minneapolis-st,
+Source.shimizu.new orleans,
+Source.shimizu.rockford airport,
+Source.shimizu.salt lake city,
+Source.shimizu.worcester,
+Source.shunde(rongqi).chicago,
+Source.singapore.chicago,
+Source.singapore.houston,
+Source.taichung.chicago,
+Source.taichung.houston,
+Source.taichung.memphis,
+Source.tanjung pelepas.houston,
+Source.tianjinxingang.chicago,
+Source.tianjinxingang.dallas/ft,
+Source.tianjinxingang.houston,
+Source.tianjinxingang.memphis,
+Source.tokyo.houston,
+Source.tokyo.memphis,
+Source.tokyo cy.detroit,
+Source.tokyo kline term.houston,
+Source.tokyo/alliance.houston,
+Source.wuhan.chicago,
+Source.xiamen.atlanta,
+Source.xiamen.cincinnati,
+Source.xiamen.columbus,
+Source.xiamen.dallas/ft,
+Source.xiamen.otay mesa station,
+Source.xiamen.san bernardino international airport,
+Source.xiamen fj.houston,
+Source.xingang.chicago,
+Source.xingang.dallas/ft,
+Source.xingang.houston,
+Source.xingang.kansas city,
+Source.xingang.memphis,
+Source.yangzhou.chicago,
+Source.yantian.atlanta,
+Source.yantian.cincinnati,
+Source.yantian.cleveland,
+Source.yantian.columbus,
+Source.yantian.dallas/ft,
+Source.yantian.el paso,
+Source.yantian.kansas city,
+Source.yantian.memphis,
+Source.yantian.new york/newark area,
+Source.yantian.san antonio,
+Source.yichang.chicago,
+Source.yokohama.chicago,
+Source.zhangjiagang.chicago,
+Source.zhapu.memphis,
+Source.zhenjiang.chicago,
+Source.zhenjiang.columbus,
+Source.zhuhai.chicago,
+Source.ahmedabad.chicago,
+Source.bangkok.atlanta,
+Source.bangkok.st louis,
+Source.belawan.houston,
+Source.busan.atlanta,
+Source.busan.birmingham,
+Source.busan.detroit metropolitan airport,
+Source.busan.el paso,
+Source.busan.kansas city,
+Source.busan.laredo,
+Source.busan.nashville,
+Source.busan - cy.atlanta,
+Source.busan - cy.el paso,
+Source.busan - cy.minneapolis-st,
+Source.busan cy korea.dallas/ft,
+Source.busan cy korea.el paso,
+Source.busan cy korea.houston,
+Source.busan cy korea.nogales,
+Source.busan cy korea.otay mesa station,
+Source.busan cy korea.tampa,
+Source.cartagena.detroit,
+Source.cebu city.houston,
+Source.chachoengsao.dallas/ft,
+Source.chennai.dallas/ft,
+Source.chennai.honolulu,
+Source.chennai.houston,
+Source.chittagong.el paso,
+Source.chittagong.houston,
+Source.chittagong - cy.chicago,
+Source.chittagong - port.chicago,
+Source.chiwan.los angeles,
+Source.chiwan.tampa,
+Source.colombo.chicago,
+Source.da nang.chicago,
+Source.da nang.houston,
+Source.dalian.hidalgo,
+Source.dalian.los angeles,
+Source.fuzhou.cleveland,
+Source.fuzhou maiwei ter.new york,
+Source.fuzhou maiwei ter.savannah,
+Source.fuzhou(mawei).houston,
+Source.gaolan.chicago,
+Source.gwangyang.cleveland,
+Source.gwangyang.columbus,
+Source.hiroshima cy.dallas/ft,
+Source.ho chi minh.atlanta,
+Source.ho chi minh city.dallas/ft,
+Source.ho chi minh city.los angeles,
+Source.hong kong.brownsville,
+Source.hong kong.nashville,
+Source.hong kong - cy.jacksonville,
+Source.huangpu.houston,
+Source.jakarta.atlanta,
+Source.jakarta.el paso,
+Source.jakarta.fresno,
+Source.jakarta.phoenix,
+Source.jiangmen.chicago,
+Source.kaohsiung.charlotte,
+Source.kaohsiung.honolulu,
+Source.kaohsiung.kansas city,
+Source.keelung.atlanta,
+Source.keelung.chicago,
+Source.keelung.columbus,
+Source.keelung.houston,
+Source.keelung.memphis,
+Source.keelung.nogales,
+Source.keelung.rockford airport,
+Source.keelung.salt lake city,
+Source.keelung kaohsiung.cleveland,
+Source.kobe cy.chicago,
+Source.kochi.dallas/ft,
+Source.kolkata.houston,
+Source.laem chabang.atlanta,
+Source.laem chabang.dallas/ft,
+Source.laem chabang.detroit,
+Source.laem chabang.oakland,
+Source.lat krabang.atlanta,
+Source.lat krabang.chicago,
+Source.lat krabang.dallas/ft,
+Source.lat krabang.memphis,
+Source.madras(chennai).houston,
+Source.manila north.houston,
+Source.melbourne.charlotte,
+Source.melbourne.san francisco,
+Source.moji.houston,
+Source.moradabad.dallas/ft,
+Source.nagoya.chicago,
+Source.nansha new port.chicago,
+Source.nansha new port.dallas/ft,
+Source.nansha new port.houston,
+Source.ningbo.atlanta,
+Source.ningbo.el paso,
+Source.ningbo city.chicago,
+Source.ningbo city.columbus,
+Source.pasir gudang.dallas/ft,
+Source.phetchaburi.houston,
+Source.port kelang.dallas/ft,
+Source.port klang.chicago,
+Source.port klang.del rio,
+Source.pusan.houston,
+Source.pusan.st louis,
+Source.qingdao.new orleans,
+Source.qingdao city.chicago,
+Source.samut prakan.chicago,
+Source.samut sakhon.dallas/ft,
+Source.samutprakan.chicago,
+Source.samutprakan.houston,
+Source.samutsakhon.dallas/ft,
+Source.scandicci.chicago,
+Source.semarang.chicago,
+Source.semarang.houston,
+Source.shanghai.atlanta,
+Source.shanghai.otay mesa station,
+Source.shanghai city.otay mesa station,
+Source.shanghai sh.houston,
+Source.shimizu cy.houston,
+Source.sihanoukville.chicago,
+Source.sihanoukville.houston,
+Source.singaoore.chicago,
+Source.singapore.minneapolis-st,
+Source.singapore.san antonio,
+Source.surabaya.dallas/ft,
+Source.surabaya.houston,
+Source.taichung.cleveland,
+Source.taichung.nashville,
+Source.taichung - cy.louisville,
+Source.taichung taiwan c.houston,
+Source.tanjung pelepas.chicago,
+Source.tanjung pelepas.rockford airport,
+Source.tanjung priok.fresno,
+Source.taoyuan.dallas/ft,
+Source.tianjinxingang.atlanta,
+Source.tokyo.new york/newark area,
+Source.tokyo kline term.memphis,
+Source.tokyo/alliance.memphis,
+Source.tuticorin.chicago,
+Source.tw.chicago,
+Source.ube.chicago,
+Source.valparaiso.chicago,
+Source.vishakhapatnam.chicago,
+Source.vishakhapatnam.dallas/ft,
+Source.vung tau.houston,
+Source.xiamen.cleveland,
+Source.xiamen.los angeles,
+Source.yantian.fresno,
+Source.yantian.grand rapids,
+Source.yantian - cy.jacksonville,
+Source.yantian distric.baltimore,
+Source.yantian distric.houston,
+Source.yantian gd.dallas/ft,
+Source.yantian gd.houston,
+Source.yantian gd.kansas city,
+Source.yantian gd.memphis,
+Source.yokkaichi.dallas/ft,
+Source.yokohama.houston,
+Source.yokohama.laredo,
+Source.zhangjiagang.otay mesa station,
+Source.zhenjiang.houston,
+Source.cristobal.miami,
+Source.guatemala.new york/newark area,
+Source.guayaquil.chicago,
+Source.guayaquil .chicago,
+Source.guayaquil - tpg -.chicago,
+Source.rio haina.miami,
+Source.rotterdam.port everglades,
+Source.san lorenzo.miami,
+Source.santo tomas d/cas.chicago,
+Source.xiamen.west palm beach,
+Source.port kelang.new orleans,
+Source.sto tomas d/casti.kansas city,
+Source.haifa.chicago,
+Source.hong kong.salem,
+Source.san antonio.champlain-rouses point,
+Source.san antonio.houston,
+Source.santos.chicago,
+Source.valparaiso.houston,
+Source.vitoria.chicago,
+Source.almeria.st louis,
+Source.almoradi.buffalo-niagara falls,
+Source.antwerp.kansas city,
+Source.antwerp.philadelphia,
+Source.aqaba.champlain-rouses point,
+Source.aqaba.trout river,
+Source.arica.trout river,
+Source.ashford.chicago,
+Source.barcelona.huntsville,
+Source.bremerhaven.pittsburgh,
+Source.buenos aires.champlain-rouses point,
+Source.calcutta.chicago,
+Source.cantoria.buffalo-niagara falls,
+Source.cantoria.chicago,
+Source.cantoria.seattle,
+Source.cape town.champlain-rouses point,
+Source.chennai.buffalo-niagara falls,
+Source.chennai.chicago,
+Source.chittagong.buffalo-niagara falls,
+Source.civitavecchia.chicago,
+Source.dundalk.detroit,
+Source.durban.buffalo-niagara falls,
+Source.gautam budhh naga.chicago,
+Source.genoa.cleveland,
+Source.getafe.chicago,
+Source.hamburg.philadelphia,
+Source.hamburg.pittsburgh,
+Source.hong kong.philadelphia,
+Source.hyderabad.detroit,
+Source.hyderabad.kansas city,
+Source.hyderabad.minneapolis-st,
+Source.hyderabad.st louis,
+Source.jawaharlal nehru.buffalo-niagara falls,
+Source.jawaharlal nehru.chicago,
+Source.jawaharlal nehru.trout river,
+Source.kaohsiung.detroit,
+Source.kobe cy.allentown,
+Source.liverpool.chicago,
+Source.liverpool.indianapolis,
+Source.liverpool.minneapolis-st,
+Source.ludhiana.chicago,
+Source.mongla - cy.chicago,
+Source.moradabad.chicago,
+Source.mundra.buffalo-niagara falls,
+Source.mundra.chicago,
+Source.nagpur.chicago,
+Source.nantong.columbus,
+Source.naples.baltimore,
+Source.navegantes.champlain-rouses point,
+Source.new delhi.buffalo-niagara falls,
+Source.new delhi.chicago,
+Source.newport/gwent.chicago,
+Source.ningbo.norfolk,
+Source.pandjang.chicago,
+Source.panipat.buffalo-niagara falls,
+Source.panipat.chicago,
+Source.port qasim.buffalo-niagara falls,
+Source.port qasim.indianapolis,
+Source.port qasim.trout river,
+Source.santos.champlain-rouses point,
+Source.shimizu.pittsburgh,
+Source.singapore.boston,
+Source.singapore.charleston,
+Source.spoleto.chicago,
+Source.startrack.buffalo-niagara falls,
+Source.startrack.chicago,
+Source.taichung taiwan c.miami,
+Source.tamatave.kansas city,
+Source.thessaloniki.chicago,
+Source.toronto.chicago,
+Source.valencia.cleveland,
+Source.valparaiso - cy.memphis,
+Source.visakhapatnam.chicago,
+Source.visakhapatnam.minneapolis-st,
+Source.vittorio veneto.columbus,
+Source.yantian.boston,
+Source.yantian.worcester,
+Source.chicago,
+Source.algeciras.st louis,
+Source.cartagena.chicago,
+Source.choluteca.norfolk,
+Source.dadri.chicago,
+Source.dadri.winston-salem,
+Source.damietta.chicago,
+Source.genoa.detroit,
+Source.gothenburg.louisville,
+Source.gothenburg.owensboro-evansville,
+Source.grangemouth.louisville,
+Source.grangemouth.st louis,
+Source.hamburg.columbus,
+Source.houston.houston,
+Source.jawaharlal nehru.cincinnati,
+Source.jawaharlal nehru.detroit,
+Source.kaohsiung.new york/newark area,
+Source.la spezia.cincinnati,
+Source.liverpool.st louis,
+Source.managua.chicago,
+Source.mersin.st louis,
+Source.mundra.cincinnati,
+Source.navegantes.chicago,
+Source.new delhi.baltimore,
+Source.niigata.st louis,
+Source.pecem ce br.cincinnati,
+Source.port said.long beach,
+Source.port said east.chicago,
+Source.port said east.houston,
+Source.ribecourt.cleveland,
+Source.rotterdam.columbus,
+Source.santa rosa montel.norfolk,
+Source.santo tomas de ca.chicago,
+Source.shuwaikh.baltimore,
+Source.songkhla.chicago,
+Source.taichung taiwan c.chicago,
+Source.tallinn/muuga.chicago,
+Source.thessaloniki.winston-salem,
+Source.jiangyin.denver,
+Source.santiago sacatep.seattle,
+Source.taichung.salt lake city,
+Source.wuhan.denver,
+Source.yantian.denver,
+Source.cape town.chicago,
+Source.chile.houston,
+Source.coquimbo.chicago,
+Source.melbourne.buffalo-niagara falls,
+Source.melbourne.champlain-rouses point,
+Source.barcelona.port everglades,
+Source.bilbao.chicago,
+Source.cadiz.chicago,
+Source.fossano.chicago,
+Source.genoa.nashville,
+Source.la spezia.chicago,
+Source.malaga.chicago,
+Source.valencia.chicago,
+Source.estado de mexico.chicago,
+Source.valencia.houston,
+Source.antwerp.memphis,
+Source.bremen.atlanta,
+Source.cantoria.atlanta,
+Source.cantoria.charlotte,
+Source.dadri.memphis,
+Source.espartinas.charleston,
+Source.fuqing.chicago,
+Source.fuqing.houston,
+Source.ho chi minh city.atlanta,
+Source.ho chi minh city.jacksonville,
+Source.ho chi minh city.nashville,
+Source.leghorn.nashville,
+Source.livorno.memphis,
+Source.manila (north har.atlanta,
+Source.marcallo con caso.nashville,
+Source.panjang port.jacksonville,
+Source.port qasim.atlanta,
+Source.port qasim.miami,
+Source.pusan.atlanta,
+Source.samut sakhon.atlanta,
+Source.samutsakhon.atlanta,
+Source.singapore.atlanta,
+Source.surabaya.atlanta,
+Source.tanjung pelepas.savannah,
+Source.tribiano.atlanta,
+Source.yantian gd.atlanta,
+Source.zhenjiang.atlanta,
+Source.beijiao.cincinnati,
+Source.busan cy korea.portland,
+Source.changsha.chicago,
+Source.ho chi minh cit.minneapolis-st,
+Source.hochiminh city.minneapolis-st,
+Source.hong kong.portland,
+Source.jiangyin.chicago,
+Source.kobe.minneapolis-st,
+Source.kolkata(calcutta).portland,
+Source.nagoya.st louis,
+Source.ningbo.columbus,
+Source.ningbo - cy.chicago,
+Source.shanghai.columbus,
+Source.shanghai.minneapolis-st,
+Source.shashi.chicago,
+Source.tokyo.st louis,
+Source.xiamen.syracuse,
+Source.xiamen - cy.chicago,
+Source.xiaolan.chicago,
+Source.yantian.nashville,
+Source.yantian.owensboro-evansville,
+Source.yantian.st louis,
+Source.yantian cn.cleveland,
+Source.yantian distric.minneapolis-st,
+Source.zhongshan.louisville,
+Source.bangkok.portland,
+Source.busan.louisville,
+Source.busan cy korea.chicago,
+Source.fuzhou.minneapolis-st,
+Source.hong kong.minneapolis-st,
+Source.jakarta.denver,
+Source.jakarta.minneapolis-st,
+Source.jiaxing.tacoma,
+Source.kaohsiung.cincinnati,
+Source.manila north harb.chicago,
+Source.nanhai.portland,
+Source.nantong.detroit,
+Source.osaka.portland,
+Source.shanghai.norfolk,
+Source.shimizu.portland,
+Source.shunde.chicago,
+Source.singapore.portland,
+Source.vadodara.portland,
+Source.wuhan.detroit,
+Source.yantian.indianapolis,
+Source.yantian.portland,
+Source.zhangjiagang.columbus,
+Source.toronto.west palm beach,
+Source.cn.chicago,
+Source.ningbo.chicago.baltimore,3
+Source.san antonio.chicago.baltimore,14
+Source.taichung.philadelphia.baltimore,2
+Source.ningbo.chicago.carquinez strait,1
+Source.bremerhaven.atlanta.charleston,20
+Source.bremerhaven.greenville-spartanburg.charleston,20
+Source.bugo.jacksonville.charleston,2
+Source.busan.savannah.charleston,3
+Source.chittagong.chicago.charleston,569
+Source.chittagong.savannah.charleston,569
+Source.chiwan.houston.charleston,11
+Source.colombo.miami.charleston,24
+Source.hai phong.savannah.charleston,3
+Source.hamburg (200xx).atlanta.charleston,8
+Source.hochiminh.savannah.charleston,3
+Source.jawaharlal nehru.baltimore.charleston,268
+Source.jawaharlal nehru.houston.charleston,268
+Source.jawaharlal nehru.miami.charleston,268
+Source.jawaharlal nehru.mobile.charleston,268
+Source.jawaharlal nehru.savannah.charleston,268
+Source.jawaharlal nehruj.atlanta.charleston,1
+Source.jebel ali dubai.nashville.charleston,3
+Source.kanpur.houston.charleston,16
+Source.mombasa.miami.charleston,2
+Source.moron de la front.chicago.charleston,1
+Source.new delhi.savannah.charleston,2
+Source.panipat.savannah.charleston,2
+Source.pasir gudang.savannah.charleston,1
+Source.port qasim.chicago.charleston,284
+Source.port qasim.houston.charleston,284
+Source.purto limon.chicago.charleston,1
+Source.san lorenzo.charleston.charleston,13
+Source.startrack.memphis.charleston,8
+Source.startrack.savannah.charleston,8
+Source.sto tomas d/casti.chicago.charleston,3
+Source.tuticorin.houston.charleston,43
+Source.tuticorin.savannah.charleston,43
+Source.xiamen.savannah.charleston,18
+Source.yantian.chicago.charleston,543
+Source.chachagua.buffalo-niagara falls.chester,7
+Source.la fortuna.buffalo-niagara falls.chester,7
+Source.ujarras.buffalo-niagara falls.chester,6
+Source.chiwan.houston.galveston,1
+Source.chiwan.houston.honolulu,3
+Source.aarhus.houston.houston,36
+Source.aarhus.morgan city.houston,36
+Source.aarhus {arhus}.laredo.houston,1
+Source.albano san alessa.laredo.houston,1
+Source.barcelona.albuquerque.houston,24
+Source.barcelona.del rio.houston,24
+Source.barcelona.denver.houston,24
+Source.barcelona.laredo.houston,24
+Source.bremen.el paso.houston,343
+Source.bremerhaven.dallas/ft.houston,80
+Source.bremerhaven.hidalgo.houston,80
+Source.bremerhaven.new orleans.houston,80
+Source.bremerhaven.pascagoula.houston,80
+Source.cantoria.los angeles.houston,481
+Source.caprino veronese.laredo.houston,2
+Source.casnigo.el paso.houston,1
+Source.castleton.el paso.houston,2
+Source.chiwan.chicago.houston,2130
+Source.chiwan.houston.houston,2130
+Source.cologne.hidalgo.houston,5
+Source.copenhagen.laredo.houston,44
+Source.costa rica.chicago.houston,72
+Source.espartinas.chicago.houston,3
+Source.espartinas.los angeles.houston,3
+Source.fredericia.laredo.houston,11
+Source.fuzhou.chicago.houston,377
+Source.gdynia.hidalgo.houston,1
+Source.genoa.denver.houston,31
+Source.genoa.el paso.houston,31
+Source.genoa.houston.houston,31
+Source.genoa.laredo.houston,31
+Source.genoa.los angeles.houston,31
+Source.gothenburg - cy.morgan city.houston,2
+Source.grangemouth.denver.houston,10
+Source.grangemouth.laredo.houston,10
+Source.grezzana.laredo.houston,1
+Source.hong kong.chicago.houston,180
+Source.koeln.hidalgo.houston,2
+Source.koeln - door.hidalgo.houston,4
+Source.la spezia.el paso.houston,10
+Source.la spezia.morgan city.houston,10
+Source.leghorn.chicago.houston,24
+Source.leghorn.dallas/ft.houston,24
+Source.livorno.el paso.houston,3
+Source.ningbo.chicago.houston,179
+Source.ningbo.houston.houston,179
+Source.port qasim.chicago.houston,366
+Source.port qasim.houston.houston,366
+Source.puerto limon.chicago.houston,1074
+Source.rainham.brownsville.houston,12
+Source.rainham.el paso.houston,12
+Source.rainham.laredo.houston,12
+Source.rainham.new orleans.houston,12
+Source.rochdale.brownsville.houston,7
+Source.rochdale.dallas/ft.houston,7
+Source.rochdale.eagle pass.houston,7
+Source.rochdale.el paso.houston,7
+Source.santos.los angeles.houston,13
+Source.shanghai.chicago.houston,3493
+Source.shanghai.houston.houston,3493
+Source.sto tomas d/casti.atlanta.houston,496
+Source.sto tomas d/casti.chicago.houston,496
+Source.sto tomas d/casti.houston.houston,496
+Source.tarragona.chicago.houston,8
+Source.thamesport.laredo.houston,2
+Source.west horndon.chicago.houston,1
+Source.xiamen.chicago.houston,2753
+Source.xiamen.houston.houston,2753
+Source.yantian.chicago.houston,4728
+Source.yantian.houston.houston,4728
+Source.yantian.minneapolis-st.houston,4728
+Source.ningbo.houston.jacksonville,34
+Source.ningbo - cy.houston.jacksonville,38
+Source.vancouver.chicago.juneau,2
+Source.all oth peoples r.chicago.long beach,10
+Source.all oth peoples r.houston.long beach,10
+Source.bangkok.chicago.long beach,48
+Source.bangkok.houston.long beach,48
+Source.bangkok.memphis.long beach,48
+Source.bao-an.chicago.long beach,226
+Source.busan.chicago.long beach,342
+Source.busan.greenville-spartanburg.long beach,342
+Source.busan.houston.long beach,342
+Source.busan.miami.long beach,342
+Source.busan.miami international airport .long beach,342
+Source.busan.otay mesa station.long beach,342
+Source.busan.st louis.long beach,342
+Source.busan .houston.long beach,1
+Source.busan korea.houston.long beach,3
+Source.cartagena.el paso.long beach,96
+Source.changzhou.cleveland.long beach,16
+Source.chennai (formerly.chicago.long beach,4
+Source.chittagong.chicago.long beach,10
+Source.chiwan.chicago.long beach,8251
+Source.chiwan.houston.long beach,8251
+Source.chiwan.memphis.long beach,8251
+Source.cochin.dallas/ft.long beach,1
+Source.constantza.chicago.long beach,2
+Source.dachan bay.atlanta.long beach,17
+Source.dalian.atlanta.long beach,177
+Source.dalian.chicago.long beach,177
+Source.dalian.dallas/ft.long beach,177
+Source.dalian.houston.long beach,177
+Source.dalian.salt lake city.long beach,177
+Source.fuzhou.chicago.long beach,1729
+Source.fuzhou.dallas/ft.long beach,1729
+Source.fuzhou.el paso.long beach,1729
+Source.fuzhou.houston.long beach,1729
+Source.fuzhou.memphis.long beach,1729
+Source.hai phong.chicago.long beach,191
+Source.hai phong.houston.long beach,191
+Source.haifa.salt lake city.long beach,4
+Source.haiphong.chicago.long beach,35
+Source.haiphong.houston.long beach,35
+Source.ho chi minh city.chicago.long beach,199
+Source.ho chi minh city.houston.long beach,199
+Source.hochiminh city.chicago.long beach,2
+Source.hong kong.atlanta.long beach,649
+Source.hong kong.chicago.long beach,649
+Source.hong kong.cincinnati.long beach,649
+Source.hong kong.cleveland.long beach,649
+Source.hong kong.columbus.long beach,649
+Source.hong kong.dallas/ft.long beach,649
+Source.hong kong.el paso.long beach,649
+Source.hong kong.hidalgo.long beach,649
+Source.hong kong.houston.long beach,649
+Source.hong kong.laredo.long beach,649
+Source.hong kong.memphis.long beach,649
+Source.hong kong.miami international airport .long beach,649
+Source.hong kong.new york/newark area.long beach,649
+Source.hong kong.nogales.long beach,649
+Source.hong kong.otay mesa station.long beach,649
+Source.hong kong cfs.houston.long beach,3
+Source.houston.chicago.long beach,4
+Source.jakarta.chicago.long beach,50
+Source.jakarta.houston.long beach,50
+Source.jiuzhou.chicago.long beach,5
+Source.jiuzhou.houston.long beach,5
+Source.kampong saom (sih.chicago.long beach,41
+Source.kampong saom (sih.houston.long beach,41
+Source.kaohsiung.chicago.long beach,245
+Source.kaohsiung.cleveland.long beach,245
+Source.kaohsiung.dallas/ft.long beach,245
+Source.kaohsiung.houston.long beach,245
+Source.kaohsiung.memphis.long beach,245
+Source.kaohsiung.new orleans.long beach,245
+Source.karachi.chicago.long beach,2
+Source.karachi.houston.long beach,2
+Source.kobe.cleveland.long beach,49
+Source.kobe.houston.long beach,49
+Source.kobe cy.cincinnati.long beach,131
+Source.kobe cy.detroit.long beach,131
+Source.kobe cy.new york/newark area.long beach,131
+Source.kobe kline termi.houston.long beach,2
+Source.kobe kline termi.new orleans.long beach,2
+Source.kobe/mol termina.houston.long beach,6
+Source.kobe/mol termina.new orleans.long beach,6
+Source.kolkata(calcutta).chicago.long beach,13
+Source.kolkata(calcutta).houston.long beach,13
+Source.laem chabang.chicago.long beach,93
+Source.laem chabang.cincinnati.long beach,93
+Source.laem chabang.houston.long beach,93
+Source.lat krabang.houston.long beach,191
+Source.manila.atlanta.long beach,41
+Source.manila.houston.long beach,41
+Source.manila north port.chicago.long beach,2
+Source.mawei fuzhou.kansas city.long beach,9
+Source.moji cy.dallas/ft.long beach,1
+Source.nagoya.dallas/ft.long beach,17
+Source.nagoya.new orleans.long beach,17
+Source.nanjing.chicago.long beach,239
+Source.nanjing.dallas/ft.long beach,239
+Source.nanjing.detroit.long beach,239
+Source.nanjing.hidalgo.long beach,239
+Source.nanjing.houston.long beach,239
+Source.nanjing.otay mesa station.long beach,239
+Source.nanjing.st louis.long beach,239
+Source.nansha.dallas/ft.long beach,29
+Source.nantong.chicago.long beach,40
+Source.nantong.cleveland.long beach,40
+Source.nantong.houston.long beach,40
+Source.nantong.kansas city.long beach,40
+Source.nantong.memphis.long beach,40
+Source.nantong.new orleans.long beach,40
+Source.ning bo.chicago.long beach,6
+Source.ningbo.chicago.long beach,3711
+Source.ningbo.cincinnati.long beach,3711
+Source.ningbo.cleveland.long beach,3711
+Source.ningbo.dallas/ft.long beach,3711
+Source.ningbo.detroit.long beach,3711
+Source.ningbo.houston.long beach,3711
+Source.ningbo.kansas city.long beach,3711
+Source.ningbo.memphis.long beach,3711
+Source.ningbo.new orleans.long beach,3711
+Source.ningbo.salt lake city.long beach,3711
+Source.ningbo.st louis.long beach,3711
+Source.ningbo.worcester.long beach,3711
+Source.osaka.dallas/ft.long beach,11
+Source.osaka.worcester.long beach,11
+Source.otake cy.chicago.long beach,23
+Source.otake cy.cleveland.long beach,23
+Source.pasir gudang.chicago.long beach,19
+Source.pasir gudang.houston.long beach,19
+Source.phnom penh.chicago.long beach,60
+Source.phnom penh.houston.long beach,60
+Source.port klang.houston.long beach,18
+Source.port klang (pelab.chicago.long beach,6
+Source.pusan.charlotte.long beach,11
+Source.pusan.memphis.long beach,11
+Source.pusan.otay mesa station.long beach,11
+Source.qingdao.chicago.long beach,1935
+Source.qingdao.dallas/ft.long beach,1935
+Source.qingdao.houston.long beach,1935
+Source.qingdao.otay mesa station.long beach,1935
+Source.qingdao sd.laredo.long beach,2
+Source.rongqi.chicago.long beach,84
+Source.rongqi.houston.long beach,84
+Source.shanghai.chicago.long beach,6808
+Source.shanghai.cincinnati.long beach,6808
+Source.shanghai.cleveland.long beach,6808
+Source.shanghai.dallas/ft.long beach,6808
+Source.shanghai.detroit.long beach,6808
+Source.shanghai.el paso.long beach,6808
+Source.shanghai.hidalgo.long beach,6808
+Source.shanghai.houston.long beach,6808
+Source.shanghai.kansas city.long beach,6808
+Source.shanghai.louisville.long beach,6808
+Source.shanghai.nashville.long beach,6808
+Source.shanghai.new orleans.long beach,6808
+Source.shanghai.salt lake city.long beach,6808
+Source.shanghai.san antonio.long beach,6808
+Source.shanghai.st louis.long beach,6808
+Source.shimizu.atlanta.long beach,29
+Source.shimizu.chicago.long beach,29
+Source.shimizu.cincinnati.long beach,29
+Source.shimizu.cleveland.long beach,29
+Source.shimizu.columbus.long beach,29
+Source.shimizu.houston.long beach,29
+Source.shimizu.louisville.long beach,29
+Source.shimizu.minneapolis-st.long beach,29
+Source.shimizu.new orleans.long beach,29
+Source.shimizu.rockford airport.long beach,29
+Source.shimizu.salt lake city.long beach,29
+Source.shimizu.worcester.long beach,29
+Source.shunde(rongqi).chicago.long beach,13
+Source.singapore.chicago.long beach,10
+Source.singapore.houston.long beach,10
+Source.taichung.chicago.long beach,18
+Source.taichung.houston.long beach,18
+Source.taichung.memphis.long beach,18
+Source.tanjung pelepas.houston.long beach,7
+Source.tianjinxingang.chicago.long beach,354
+Source.tianjinxingang.dallas/ft.long beach,354
+Source.tianjinxingang.houston.long beach,354
+Source.tianjinxingang.memphis.long beach,354
+Source.tokyo.houston.long beach,23
+Source.tokyo.memphis.long beach,23
+Source.tokyo cy.detroit.long beach,3
+Source.tokyo kline term.houston.long beach,4
+Source.tokyo/alliance.houston.long beach,6
+Source.wuhan.chicago.long beach,16
+Source.xiamen.atlanta.long beach,5099
+Source.xiamen.chicago.long beach,5099
+Source.xiamen.cincinnati.long beach,5099
+Source.xiamen.columbus.long beach,5099
+Source.xiamen.dallas/ft.long beach,5099
+Source.xiamen.houston.long beach,5099
+Source.xiamen.otay mesa station.long beach,5099
+Source.xiamen.san bernardino international airport.long beach,5099
+Source.xiamen fj.houston.long beach,24
+Source.xingang.chicago.long beach,107
+Source.xingang.dallas/ft.long beach,107
+Source.xingang.houston.long beach,107
+Source.xingang.kansas city.long beach,107
+Source.xingang.memphis.long beach,107
+Source.yangzhou.chicago.long beach,34
+Source.yantian.atlanta.long beach,8150
+Source.yantian.chicago.long beach,8150
+Source.yantian.cincinnati.long beach,8150
+Source.yantian.cleveland.long beach,8150
+Source.yantian.columbus.long beach,8150
+Source.yantian.dallas/ft.long beach,8150
+Source.yantian.el paso.long beach,8150
+Source.yantian.houston.long beach,8150
+Source.yantian.kansas city.long beach,8150
+Source.yantian.memphis.long beach,8150
+Source.yantian.new york/newark area.long beach,8150
+Source.yantian.san antonio.long beach,8150
+Source.yichang.chicago.long beach,7
+Source.yokohama.chicago.long beach,25
+Source.zhangjiagang.chicago.long beach,13
+Source.zhapu.memphis.long beach,2
+Source.zhenjiang.chicago.long beach,3
+Source.zhenjiang.columbus.long beach,3
+Source.zhuhai.chicago.long beach,19
+Source.ahmedabad.chicago.los angeles,2
+Source.all oth peoples r.chicago.los angeles,7
+Source.all oth peoples r.houston.los angeles,7
+Source.bangkok.atlanta.los angeles,319
+Source.bangkok.chicago.los angeles,319
+Source.bangkok.houston.los angeles,319
+Source.bangkok.memphis.los angeles,319
+Source.bangkok.st louis.los angeles,319
+Source.belawan.houston.los angeles,29
+Source.busan.atlanta.los angeles,245
+Source.busan.birmingham.los angeles,245
+Source.busan.chicago.los angeles,245
+Source.busan.detroit metropolitan airport.los angeles,245
+Source.busan.el paso.los angeles,245
+Source.busan.houston.los angeles,245
+Source.busan.kansas city.los angeles,245
+Source.busan.laredo.los angeles,245
+Source.busan.nashville.los angeles,245
+Source.busan.otay mesa station.los angeles,245
+Source.busan - cy.atlanta.los angeles,13
+Source.busan - cy.el paso.los angeles,13
+Source.busan - cy.minneapolis-st.los angeles,13
+Source.busan cy korea.dallas/ft.los angeles,6
+Source.busan cy korea.el paso.los angeles,6
+Source.busan cy korea.houston.los angeles,6
+Source.busan cy korea.nogales.los angeles,6
+Source.busan cy korea.otay mesa station.los angeles,6
+Source.busan cy korea.tampa.los angeles,6
+Source.cartagena.detroit.los angeles,6
+Source.cebu city.houston.los angeles,44
+Source.chachoengsao.dallas/ft.los angeles,5
+Source.chennai.dallas/ft.los angeles,80
+Source.chennai.honolulu.los angeles,80
+Source.chennai.houston.los angeles,80
+Source.chennai (formerly.chicago.los angeles,1
+Source.chittagong.chicago.los angeles,689
+Source.chittagong.el paso.los angeles,689
+Source.chittagong.houston.los angeles,689
+Source.chittagong - cy.chicago.los angeles,5
+Source.chittagong - port.chicago.los angeles,14
+Source.chiwan.chicago.los angeles,54
+Source.chiwan.houston.los angeles,54
+Source.chiwan.los angeles.los angeles,54
+Source.chiwan.memphis.los angeles,54
+Source.chiwan.tampa.los angeles,54
+Source.cochin.dallas/ft.los angeles,2
+Source.colombo.chicago.los angeles,46
+Source.da nang.chicago.los angeles,89
+Source.da nang.houston.los angeles,89
+Source.dalian.chicago.los angeles,19
+Source.dalian.dallas/ft.los angeles,19
+Source.dalian.hidalgo.los angeles,19
+Source.dalian.houston.los angeles,19
+Source.dalian.los angeles.los angeles,19
+Source.fuzhou.cleveland.los angeles,22
+Source.fuzhou.dallas/ft.los angeles,22
+Source.fuzhou.el paso.los angeles,22
+Source.fuzhou maiwei ter.new york.los angeles,3
+Source.fuzhou maiwei ter.savannah.los angeles,3
+Source.fuzhou(mawei).houston.los angeles,28
+Source.gaolan.chicago.los angeles,6
+Source.gwangyang.cleveland.los angeles,157
+Source.gwangyang.columbus.los angeles,157
+Source.hai phong.chicago.los angeles,3
+Source.haiphong.chicago.los angeles,139
+Source.haiphong.houston.los angeles,139
+Source.hiroshima cy.dallas/ft.los angeles,3
+Source.ho chi minh.atlanta.los angeles,13
+Source.ho chi minh city.chicago.los angeles,551
+Source.ho chi minh city.dallas/ft.los angeles,551
+Source.ho chi minh city.houston.los angeles,551
+Source.ho chi minh city.los angeles.los angeles,551
+Source.hong kong.brownsville.los angeles,199
+Source.hong kong.chicago.los angeles,199
+Source.hong kong.dallas/ft.los angeles,199
+Source.hong kong.el paso.los angeles,199
+Source.hong kong.houston.los angeles,199
+Source.hong kong.laredo.los angeles,199
+Source.hong kong.memphis.los angeles,199
+Source.hong kong.nashville.los angeles,199
+Source.hong kong - cy.jacksonville.los angeles,9
+Source.huangpu.houston.los angeles,13
+Source.jakarta.atlanta.los angeles,1598
+Source.jakarta.chicago.los angeles,1598
+Source.jakarta.el paso.los angeles,1598
+Source.jakarta.fresno.los angeles,1598
+Source.jakarta.houston.los angeles,1598
+Source.jakarta.phoenix.los angeles,1598
+Source.jiangmen.chicago.los angeles,4
+Source.kaohsiung.charlotte.los angeles,252
+Source.kaohsiung.chicago.los angeles,252
+Source.kaohsiung.dallas/ft.los angeles,252
+Source.kaohsiung.honolulu.los angeles,252
+Source.kaohsiung.houston.los angeles,252
+Source.kaohsiung.kansas city.los angeles,252
+Source.kaohsiung.memphis.los angeles,252
+Source.karachi.chicago.los angeles,423
+Source.karachi.houston.los angeles,423
+Source.keelung.atlanta.los angeles,91
+Source.keelung.chicago.los angeles,91
+Source.keelung.columbus.los angeles,91
+Source.keelung.houston.los angeles,91
+Source.keelung.memphis.los angeles,91
+Source.keelung.nogales.los angeles,91
+Source.keelung.rockford airport.los angeles,91
+Source.keelung.salt lake city.los angeles,91
+Source.keelung kaohsiung.cleveland.los angeles,2
+Source.kobe.houston.los angeles,15
+Source.kobe cy.chicago.los angeles,105
+Source.kobe cy.cincinnati.los angeles,105
+Source.kobe cy.detroit.los angeles,105
+Source.kobe cy.new york/newark area.los angeles,105
+Source.kobe/mol termina.houston.los angeles,3
+Source.kobe/mol termina.new orleans.los angeles,3
+Source.kochi.dallas/ft.los angeles,1
+Source.kolkata.houston.los angeles,1
+Source.laem chabang.atlanta.los angeles,252
+Source.laem chabang.chicago.los angeles,252
+Source.laem chabang.dallas/ft.los angeles,252
+Source.laem chabang.detroit.los angeles,252
+Source.laem chabang.houston.los angeles,252
+Source.laem chabang.oakland.los angeles,252
+Source.lat krabang.atlanta.los angeles,54
+Source.lat krabang.chicago.los angeles,54
+Source.lat krabang.dallas/ft.los angeles,54
+Source.lat krabang.houston.los angeles,54
+Source.lat krabang.memphis.los angeles,54
+Source.leghorn.chicago.los angeles,34
+Source.madras(chennai).houston.los angeles,4
+Source.manila.atlanta.los angeles,4
+Source.manila north.houston.los angeles,1
+Source.melbourne.charlotte.los angeles,7
+Source.melbourne.san francisco.los angeles,7
+Source.moji.houston.los angeles,4
+Source.moradabad.dallas/ft.los angeles,6
+Source.nagoya.chicago.los angeles,13
+Source.nagoya.new orleans.los angeles,13
+Source.nansha new port.chicago.los angeles,28
+Source.nansha new port.dallas/ft.los angeles,28
+Source.nansha new port.houston.los angeles,28
+Source.ningbo.atlanta.los angeles,521
+Source.ningbo.chicago.los angeles,521
+Source.ningbo.cincinnati.los angeles,521
+Source.ningbo.cleveland.los angeles,521
+Source.ningbo.dallas/ft.los angeles,521
+Source.ningbo.detroit.los angeles,521
+Source.ningbo.el paso.los angeles,521
+Source.ningbo.houston.los angeles,521
+Source.ningbo.kansas city.los angeles,521
+Source.ningbo.memphis.los angeles,521
+Source.ningbo.new orleans.los angeles,521
+Source.ningbo city.chicago.los angeles,78
+Source.ningbo city.columbus.los angeles,78
+Source.otake cy.chicago.los angeles,10
+Source.otake cy.cleveland.los angeles,10
+Source.pasir gudang.chicago.los angeles,42
+Source.pasir gudang.dallas/ft.los angeles,42
+Source.pasir gudang.houston.los angeles,42
+Source.phetchaburi.houston.los angeles,11
+Source.port kelang.dallas/ft.los angeles,25
+Source.port klang.chicago.los angeles,168
+Source.port klang.del rio.los angeles,168
+Source.port klang.houston.los angeles,168
+Source.pusan.houston.los angeles,108
+Source.pusan.memphis.los angeles,108
+Source.pusan.st louis.los angeles,108
+Source.qingdao.chicago.los angeles,278
+Source.qingdao.dallas/ft.los angeles,278
+Source.qingdao.houston.los angeles,278
+Source.qingdao.new orleans.los angeles,278
+Source.qingdao city.chicago.los angeles,6
+Source.rongqi.houston.los angeles,63
+Source.samut prakan.chicago.los angeles,119
+Source.samut sakhon.dallas/ft.los angeles,17
+Source.samutprakan.chicago.los angeles,15
+Source.samutprakan.houston.los angeles,15
+Source.samutsakhon.dallas/ft.los angeles,63
+Source.scandicci.chicago.los angeles,3
+Source.semarang.chicago.los angeles,95
+Source.semarang.houston.los angeles,95
+Source.shanghai.atlanta.los angeles,465
+Source.shanghai.chicago.los angeles,465
+Source.shanghai.dallas/ft.los angeles,465
+Source.shanghai.houston.los angeles,465
+Source.shanghai.kansas city.los angeles,465
+Source.shanghai.otay mesa station.los angeles,465
+Source.shanghai city.otay mesa station.los angeles,65
+Source.shanghai sh.houston.los angeles,44
+Source.shimizu cy.houston.los angeles,1
+Source.sihanoukville.chicago.los angeles,349
+Source.sihanoukville.houston.los angeles,349
+Source.singaoore.chicago.los angeles,1
+Source.singapore.chicago.los angeles,102
+Source.singapore.houston.los angeles,102
+Source.singapore.minneapolis-st.los angeles,102
+Source.singapore.san antonio.los angeles,102
+Source.surabaya.dallas/ft.los angeles,16
+Source.surabaya.houston.los angeles,16
+Source.taichung.chicago.los angeles,109
+Source.taichung.cleveland.los angeles,109
+Source.taichung.houston.los angeles,109
+Source.taichung.nashville.los angeles,109
+Source.taichung - cy.louisville.los angeles,5
+Source.taichung taiwan c.houston.los angeles,17
+Source.tanjung pelepas.chicago.los angeles,629
+Source.tanjung pelepas.houston.los angeles,629
+Source.tanjung pelepas.rockford airport.los angeles,629
+Source.tanjung priok.fresno.los angeles,3
+Source.taoyuan.dallas/ft.los angeles,5
+Source.tianjinxingang.atlanta.los angeles,1
+Source.tokyo.houston.los angeles,11
+Source.tokyo.memphis.los angeles,11
+Source.tokyo.new york/newark area.los angeles,11
+Source.tokyo kline term.houston.los angeles,3
+Source.tokyo kline term.memphis.los angeles,3
+Source.tokyo/alliance.houston.los angeles,8
+Source.tokyo/alliance.memphis.los angeles,8
+Source.tuticorin.chicago.los angeles,37
+Source.tw.chicago.los angeles,2
+Source.ube.chicago.los angeles,7
+Source.valparaiso.chicago.los angeles,52
+Source.vishakhapatnam.chicago.los angeles,11
+Source.vishakhapatnam.dallas/ft.los angeles,11
+Source.vung tau.houston.los angeles,8
+Source.xiamen.atlanta.los angeles,193
+Source.xiamen.chicago.los angeles,193
+Source.xiamen.cleveland.los angeles,193
+Source.xiamen.los angeles.los angeles,193
+Source.xingang.chicago.los angeles,207
+Source.xingang.dallas/ft.los angeles,207
+Source.xingang.houston.los angeles,207
+Source.xingang.kansas city.los angeles,207
+Source.yantian.atlanta.los angeles,11276
+Source.yantian.chicago.los angeles,11276
+Source.yantian.cleveland.los angeles,11276
+Source.yantian.dallas/ft.los angeles,11276
+Source.yantian.el paso.los angeles,11276
+Source.yantian.fresno.los angeles,11276
+Source.yantian.grand rapids.los angeles,11276
+Source.yantian.houston.los angeles,11276
+Source.yantian.kansas city.los angeles,11276
+Source.yantian.memphis.los angeles,11276
+Source.yantian.minneapolis-st.los angeles,11276
+Source.yantian - cy.jacksonville.los angeles,276
+Source.yantian distric.baltimore.los angeles,59
+Source.yantian distric.houston.los angeles,59
+Source.yantian gd.dallas/ft.los angeles,33
+Source.yantian gd.houston.los angeles,33
+Source.yantian gd.kansas city.los angeles,33
+Source.yantian gd.memphis.los angeles,33
+Source.yokkaichi.dallas/ft.los angeles,1
+Source.yokohama.chicago.los angeles,47
+Source.yokohama.houston.los angeles,47
+Source.yokohama.laredo.los angeles,47
+Source.zhangjiagang.otay mesa station.los angeles,2
+Source.zhapu.memphis.los angeles,1
+Source.zhenjiang.chicago.los angeles,25
+Source.zhenjiang.houston.los angeles,25
+Source.costa rica.chicago.miami,128
+Source.cristobal.miami.miami,1
+Source.guatemala.new york/newark area.miami,25
+Source.guayaquil.chicago.miami,9
+Source.guayaquil .chicago.miami,1
+Source.guayaquil - tpg -.chicago.miami,13
+Source.puerto limon.chicago.miami,371
+Source.rio haina.miami.miami,1
+Source.rotterdam.port everglades.miami,2
+Source.san lorenzo.miami.miami,3
+Source.santo tomas d/cas.chicago.miami,34
+Source.sto tomas d/casti.atlanta.miami,506
+Source.sto tomas d/casti.chicago.miami,506
+Source.sto tomas d/casti.houston.miami,506
+Source.valparaiso.chicago.miami,46
+Source.xiamen.west palm beach.miami,2
+Source.port kelang.new orleans.new orleans,1
+Source.santo tomas d/cas.chicago.new orleans,1
+Source.sto tomas d/casti.chicago.new orleans,453
+Source.sto tomas d/casti.houston.new orleans,453
+Source.sto tomas d/casti.kansas city.new orleans,453
+Source.hai phong.chicago.new york,1
+Source.haifa.chicago.new york,4
+Source.hong kong.salem.new york,45
+Source.san antonio.champlain-rouses point.new york,98
+Source.san antonio.chicago.new york,98
+Source.san antonio.houston.new york,98
+Source.santos.chicago.new york,1
+Source.valparaiso.chicago.new york,14
+Source.valparaiso.houston.new york,14
+Source.vitoria.chicago.new york,9
+Source.yantian.chicago.new york,71
+Source.almeria.st louis.new york/newark area,5
+Source.almoradi.buffalo-niagara falls.new york/newark area,4
+Source.antwerp.kansas city.new york/newark area,4
+Source.antwerp.philadelphia.new york/newark area,4
+Source.aqaba.champlain-rouses point.new york/newark area,2
+Source.aqaba.trout river.new york/newark area,2
+Source.arica.trout river.new york/newark area,2
+Source.ashford.chicago.new york/newark area,1
+Source.barcelona.huntsville.new york/newark area,2
+Source.bremerhaven.pittsburgh.new york/newark area,18
+Source.buenos aires.champlain-rouses point.new york/newark area,9
+Source.calcutta.chicago.new york/newark area,4
+Source.cantoria.buffalo-niagara falls.new york/newark area,100
+Source.cantoria.chicago.new york/newark area,100
+Source.cantoria.seattle.new york/newark area,100
+Source.cape town.champlain-rouses point.new york/newark area,1
+Source.cartagena.detroit.new york/newark area,17
+Source.chennai.buffalo-niagara falls.new york/newark area,27
+Source.chennai.chicago.new york/newark area,27
+Source.chittagong.buffalo-niagara falls.new york/newark area,689
+Source.chittagong.chicago.new york/newark area,689
+Source.chiwan.houston.new york/newark area,5
+Source.civitavecchia.chicago.new york/newark area,12
+Source.colombo.chicago.new york/newark area,21
+Source.dundalk.detroit.new york/newark area,23
+Source.durban.buffalo-niagara falls.new york/newark area,4
+Source.espartinas.chicago.new york/newark area,10
+Source.gautam budhh naga.chicago.new york/newark area,1
+Source.genoa.cleveland.new york/newark area,6
+Source.getafe.chicago.new york/newark area,7
+Source.guayaquil.chicago.new york/newark area,2
+Source.guayaquil - tpg -.chicago.new york/newark area,11
+Source.hai phong.houston.new york/newark area,1
+Source.haifa.chicago.new york/newark area,19
+Source.hamburg.philadelphia.new york/newark area,9
+Source.hamburg.pittsburgh.new york/newark area,9
+Source.hong kong.philadelphia.new york/newark area,43
+Source.hyderabad.detroit.new york/newark area,19
+Source.hyderabad.kansas city.new york/newark area,19
+Source.hyderabad.minneapolis-st.new york/newark area,19
+Source.hyderabad.st louis.new york/newark area,19
+Source.jakarta.houston.new york/newark area,19
+Source.jawaharlal nehru.buffalo-niagara falls.new york/newark area,387
+Source.jawaharlal nehru.chicago.new york/newark area,387
+Source.jawaharlal nehru.trout river.new york/newark area,387
+Source.kaohsiung.chicago.new york/newark area,54
+Source.kaohsiung.detroit.new york/newark area,54
+Source.kobe cy.allentown.new york/newark area,25
+Source.liverpool.chicago.new york/newark area,30
+Source.liverpool.indianapolis.new york/newark area,30
+Source.liverpool.minneapolis-st.new york/newark area,30
+Source.ludhiana.chicago.new york/newark area,19
+Source.mongla - cy.chicago.new york/newark area,2
+Source.moradabad.chicago.new york/newark area,11
+Source.moron de la front.chicago.new york/newark area,3
+Source.mundra.buffalo-niagara falls.new york/newark area,44
+Source.mundra.chicago.new york/newark area,44
+Source.nagpur.chicago.new york/newark area,1
+Source.nantong.columbus.new york/newark area,3
+Source.naples.baltimore.new york/newark area,4
+Source.navegantes.champlain-rouses point.new york/newark area,3
+Source.new delhi.buffalo-niagara falls.new york/newark area,7
+Source.new delhi.chicago.new york/newark area,7
+Source.newport/gwent.chicago.new york/newark area,2
+Source.ningbo.cleveland.new york/newark area,73
+Source.ningbo.norfolk.new york/newark area,73
+Source.ningbo - cy.houston.new york/newark area,7
+Source.pandjang.chicago.new york/newark area,38
+Source.panipat.buffalo-niagara falls.new york/newark area,15
+Source.panipat.chicago.new york/newark area,15
+Source.port qasim.buffalo-niagara falls.new york/newark area,272
+Source.port qasim.chicago.new york/newark area,272
+Source.port qasim.indianapolis.new york/newark area,272
+Source.port qasim.trout river.new york/newark area,272
+Source.samut prakan.chicago.new york/newark area,6
+Source.san antonio.champlain-rouses point.new york/newark area,95
+Source.san antonio.chicago.new york/newark area,95
+Source.santos.champlain-rouses point.new york/newark area,2
+Source.shimizu.pittsburgh.new york/newark area,15
+Source.singapore.boston.new york/newark area,3
+Source.singapore.charleston.new york/newark area,3
+Source.singapore.chicago.new york/newark area,3
+Source.spoleto.chicago.new york/newark area,14
+Source.startrack.buffalo-niagara falls.new york/newark area,14
+Source.startrack.chicago.new york/newark area,14
+Source.sto tomas d/casti.chicago.new york/newark area,2
+Source.taichung taiwan c.miami.new york/newark area,2
+Source.tamatave.kansas city.new york/newark area,1
+Source.tarragona.chicago.new york/newark area,27
+Source.thessaloniki.chicago.new york/newark area,2
+Source.toronto.chicago.new york/newark area,1
+Source.tuticorin.chicago.new york/newark area,106
+Source.valencia.cleveland.new york/newark area,3
+Source.valparaiso.chicago.new york/newark area,123
+Source.valparaiso.houston.new york/newark area,123
+Source.valparaiso - cy.memphis.new york/newark area,35
+Source.visakhapatnam.chicago.new york/newark area,6
+Source.visakhapatnam.minneapolis-st.new york/newark area,6
+Source.vittorio veneto.columbus.new york/newark area,1
+Source.yantian.boston.new york/newark area,199
+Source.yantian.worcester.new york/newark area,199
+Source.ahmedabad.chicago.norfolk,11
+Source.algeciras.st louis.norfolk,1
+Source.cantoria.chicago.norfolk,53
+Source.cartagena.chicago.norfolk,13
+Source.chiwan.chicago.norfolk,5052
+Source.choluteca.norfolk.norfolk,2
+Source.dadri.chicago.norfolk,8
+Source.dadri.winston-salem.norfolk,8
+Source.damietta.chicago.norfolk,15
+Source.espartinas.chicago.norfolk,1
+Source.fuzhou.chicago.norfolk,157
+Source.genoa.detroit.norfolk,1
+Source.gothenburg.louisville.norfolk,203
+Source.gothenburg.owensboro-evansville.norfolk,203
+Source.grangemouth.louisville.norfolk,3
+Source.grangemouth.st louis.norfolk,3
+Source.hamburg.columbus.norfolk,11
+Source.hong kong.chicago.norfolk,136
+Source.houston.houston.norfolk,3
+Source.jawaharlal nehru.chicago.norfolk,365
+Source.jawaharlal nehru.cincinnati.norfolk,365
+Source.jawaharlal nehru.detroit.norfolk,365
+Source.kaohsiung.new york/newark area.norfolk,113
+Source.la spezia.cincinnati.norfolk,13
+Source.liverpool.chicago.norfolk,3
+Source.liverpool.st louis.norfolk,3
+Source.managua.chicago.norfolk,59
+Source.mersin.st louis.norfolk,1
+Source.mundra.chicago.norfolk,12
+Source.mundra.cincinnati.norfolk,12
+Source.navegantes.chicago.norfolk,4
+Source.new delhi.baltimore.norfolk,2
+Source.niigata.st louis.norfolk,2
+Source.ningbo.chicago.norfolk,1357
+Source.ningbo.houston.norfolk,1357
+Source.ningbo.norfolk.norfolk,1357
+Source.pecem ce br.cincinnati.norfolk,4
+Source.port qasim.chicago.norfolk,319
+Source.port qasim.houston.norfolk,319
+Source.port said.long beach.norfolk,4
+Source.port said east.chicago.norfolk,29
+Source.port said east.houston.norfolk,29
+Source.qingdao.chicago.norfolk,598
+Source.ribecourt.cleveland.norfolk,8
+Source.rotterdam.columbus.norfolk,1
+Source.samut prakan.chicago.norfolk,49
+Source.samutprakan.chicago.norfolk,4
+Source.santa rosa montel.norfolk.norfolk,1
+Source.santo tomas de ca.chicago.norfolk,31
+Source.santos.chicago.norfolk,18
+Source.shanghai.houston.norfolk,1394
+Source.shuwaikh.baltimore.norfolk,1
+Source.songkhla.chicago.norfolk,6
+Source.sto tomas d/casti.chicago.norfolk,2
+Source.taichung taiwan c.chicago.norfolk,2
+Source.tallinn/muuga.chicago.norfolk,1
+Source.thessaloniki.winston-salem.norfolk,1
+Source.vittorio veneto.columbus.norfolk,2
+Source.xiamen.chicago.norfolk,1193
+Source.yantian.chicago.norfolk,9472
+Source.yantian.cleveland.norfolk,9472
+Source.chittagong.chicago.oakland,401
+Source.chittagong.houston.oakland,401
+Source.chiwan.chicago.oakland,57
+Source.jiangyin.denver.oakland,1
+Source.karachi.chicago.oakland,18
+Source.keelung.chicago.oakland,8
+Source.laem chabang.detroit.oakland,15
+Source.lat krabang.chicago.oakland,17
+Source.ningbo.salt lake city.oakland,15
+Source.santiago sacatep.seattle.oakland,2
+Source.taichung.salt lake city.oakland,4
+Source.wuhan.denver.oakland,4
+Source.yantian.chicago.oakland,198
+Source.yantian.denver.oakland,198
+Source.cantoria.seattle.philadelphia,18
+Source.cape town.chicago.philadelphia,28
+Source.chile.houston.philadelphia,366
+Source.coquimbo.chicago.philadelphia,35
+Source.espartinas.chicago.philadelphia,2
+Source.melbourne.buffalo-niagara falls.philadelphia,7
+Source.melbourne.champlain-rouses point.philadelphia,7
+Source.moron de la front.chicago.philadelphia,1
+Source.san antonio.chicago.philadelphia,245
+Source.san antonio.houston.philadelphia,245
+Source.valparaiso.chicago.philadelphia,147
+Source.bangkok.houston.port everglades,1
+Source.barcelona.port everglades.port everglades,2
+Source.bilbao.chicago.port everglades,5
+Source.cadiz.chicago.port everglades,19
+Source.fossano.chicago.port everglades,2
+Source.genoa.nashville.port everglades,3
+Source.guayaquil.chicago.port everglades,3
+Source.la spezia.chicago.port everglades,15
+Source.malaga.chicago.port everglades,49
+Source.valencia.chicago.port everglades,64
+Source.yantian.chicago.port everglades,2
+Source.yantian.kansas city.port everglades,2
+Source.jakarta.houston.rochester,1
+Source.estado de mexico.chicago.san juan,1
+Source.moron de la front.chicago.san juan,19
+Source.shanghai.houston.san juan,70
+Source.valencia.houston.san juan,3
+Source.antwerp.memphis.savannah,6
+Source.bremen.atlanta.savannah,2
+Source.bugo.jacksonville.savannah,15
+Source.cantoria.atlanta.savannah,14
+Source.cantoria.charlotte.savannah,14
+Source.chennai.chicago.savannah,3
+Source.chittagong.chicago.savannah,765
+Source.chittagong.houston.savannah,765
+Source.chiwan.chicago.savannah,82
+Source.dadri.memphis.savannah,14
+Source.dalian.atlanta.savannah,75
+Source.espartinas.charleston.savannah,2
+Source.fuqing.chicago.savannah,261
+Source.fuqing.houston.savannah,261
+Source.fuzhou.chicago.savannah,312
+Source.genoa.nashville.savannah,13
+Source.ho chi minh city.atlanta.savannah,147
+Source.ho chi minh city.jacksonville.savannah,147
+Source.ho chi minh city.nashville.savannah,147
+Source.hong kong.chicago.savannah,248
+Source.jakarta.atlanta.savannah,545
+Source.kaohsiung.chicago.savannah,118
+Source.leghorn.nashville.savannah,1
+Source.livorno.memphis.savannah,2
+Source.manila (north har.atlanta.savannah,1
+Source.marcallo con caso.nashville.savannah,3
+Source.ningbo.atlanta.savannah,846
+Source.ningbo.chicago.savannah,846
+Source.ningbo.houston.savannah,846
+Source.panjang port.jacksonville.savannah,1
+Source.port qasim.atlanta.savannah,83
+Source.port qasim.miami.savannah,83
+Source.port said east.chicago.savannah,226
+Source.port said east.houston.savannah,226
+Source.pusan.atlanta.savannah,10
+Source.qingdao.chicago.savannah,486
+Source.samut sakhon.atlanta.savannah,5
+Source.samutprakan.chicago.savannah,10
+Source.samutsakhon.atlanta.savannah,65
+Source.shanghai.atlanta.savannah,1075
+Source.shanghai.chicago.savannah,1075
+Source.shanghai.houston.savannah,1075
+Source.sihanoukville.chicago.savannah,288
+Source.singapore.atlanta.savannah,94
+Source.surabaya.atlanta.savannah,6
+Source.tanjung pelepas.savannah.savannah,15
+Source.tianjinxingang.atlanta.savannah,22
+Source.tribiano.atlanta.savannah,2
+Source.tuticorin.chicago.savannah,145
+Source.xiamen.chicago.savannah,2736
+Source.yantian.atlanta.savannah,11969
+Source.yantian.chicago.savannah,11969
+Source.yantian gd.atlanta.savannah,8
+Source.zhenjiang.atlanta.savannah,6
+Source.bangkok.houston.seattle,4
+Source.beijiao.cincinnati.seattle,16
+Source.busan.chicago.seattle,92
+Source.busan cy korea.portland.seattle,4
+Source.changsha.chicago.seattle,5
+Source.chittagong.chicago.seattle,9
+Source.fuzhou.chicago.seattle,103
+Source.gaolan.chicago.seattle,12
+Source.ho chi minh cit.minneapolis-st.seattle,1
+Source.ho chi minh city.chicago.seattle,5
+Source.hochiminh city.minneapolis-st.seattle,1
+Source.hong kong.chicago.seattle,814
+Source.hong kong.new york/newark area.seattle,814
+Source.hong kong.portland.seattle,814
+Source.jakarta.chicago.seattle,49
+Source.jiangyin.chicago.seattle,34
+Source.keelung.chicago.seattle,9
+Source.kobe.minneapolis-st.seattle,3
+Source.kolkata(calcutta).portland.seattle,5
+Source.nagoya.st louis.seattle,11
+Source.nanjing.chicago.seattle,55
+Source.nanjing.detroit.seattle,55
+Source.ningbo.chicago.seattle,216
+Source.ningbo.cleveland.seattle,216
+Source.ningbo.columbus.seattle,216
+Source.ningbo.detroit.seattle,216
+Source.ningbo - cy.chicago.seattle,2
+Source.qingdao.chicago.seattle,219
+Source.shanghai.chicago.seattle,1451
+Source.shanghai.columbus.seattle,1451
+Source.shanghai.houston.seattle,1451
+Source.shanghai.minneapolis-st.seattle,1451
+Source.shashi.chicago.seattle,5
+Source.sihanoukville.chicago.seattle,679
+Source.tanjung pelepas.chicago.seattle,16
+Source.tianjinxingang.chicago.seattle,28
+Source.tokyo.st louis.seattle,5
+Source.xiamen.chicago.seattle,248
+Source.xiamen.houston.seattle,248
+Source.xiamen.syracuse.seattle,248
+Source.xiamen - cy.chicago.seattle,26
+Source.xiaolan.chicago.seattle,1
+Source.xingang.chicago.seattle,102
+Source.yantian.chicago.seattle,6415
+Source.yantian.cleveland.seattle,6415
+Source.yantian.columbus.seattle,6415
+Source.yantian.houston.seattle,6415
+Source.yantian.nashville.seattle,6415
+Source.yantian.new york/newark area.seattle,6415
+Source.yantian.owensboro-evansville.seattle,6415
+Source.yantian.st louis.seattle,6415
+Source.yantian cn.cleveland.seattle,10
+Source.yantian distric.minneapolis-st.seattle,4
+Source.zhongshan.louisville.seattle,9
+Source.bangkok.chicago.tacoma,25
+Source.bangkok.portland.tacoma,25
+Source.bao-an.chicago.tacoma,676
+Source.busan.chicago.tacoma,210
+Source.busan.louisville.tacoma,210
+Source.busan cy korea.chicago.tacoma,3
+Source.dalian.chicago.tacoma,3
+Source.fuzhou.chicago.tacoma,28
+Source.fuzhou.houston.tacoma,28
+Source.fuzhou.minneapolis-st.tacoma,28
+Source.hong kong.chicago.tacoma,73
+Source.hong kong.cincinnati.tacoma,73
+Source.hong kong.minneapolis-st.tacoma,73
+Source.jakarta.denver.tacoma,7
+Source.jakarta.minneapolis-st.tacoma,7
+Source.jiaxing.tacoma.tacoma,19
+Source.kaohsiung.chicago.tacoma,116
+Source.kaohsiung.cincinnati.tacoma,116
+Source.kobe.minneapolis-st.tacoma,28
+Source.laem chabang.cincinnati.tacoma,8
+Source.manila north harb.chicago.tacoma,1
+Source.nanhai.portland.tacoma,1
+Source.nantong.cleveland.tacoma,2
+Source.nantong.detroit.tacoma,2
+Source.ningbo.chicago.tacoma,369
+Source.ningbo.cincinnati.tacoma,369
+Source.osaka.portland.tacoma,3
+Source.qingdao.chicago.tacoma,17
+Source.shanghai.chicago.tacoma,348
+Source.shanghai.cincinnati.tacoma,348
+Source.shanghai.cleveland.tacoma,348
+Source.shanghai.detroit.tacoma,348
+Source.shanghai.kansas city.tacoma,348
+Source.shanghai.minneapolis-st.tacoma,348
+Source.shanghai.norfolk.tacoma,348
+Source.shanghai.st louis.tacoma,348
+Source.shimizu.portland.tacoma,2
+Source.shunde.chicago.tacoma,3
+Source.singapore.portland.tacoma,6
+Source.taichung.chicago.tacoma,7
+Source.taichung.cleveland.tacoma,7
+Source.vadodara.portland.tacoma,2
+Source.wuhan.chicago.tacoma,3
+Source.wuhan.detroit.tacoma,3
+Source.xiamen.atlanta.tacoma,29
+Source.xiamen.chicago.tacoma,29
+Source.xingang.chicago.tacoma,1
+Source.yantian.chicago.tacoma,1689
+Source.yantian.cleveland.tacoma,1689
+Source.yantian.columbus.tacoma,1689
+Source.yantian.houston.tacoma,1689
+Source.yantian.indianapolis.tacoma,1689
+Source.yantian.memphis.tacoma,1689
+Source.yantian.portland.tacoma,1689
+Source.yokohama.chicago.tacoma,1
+Source.zhangjiagang.columbus.tacoma,5
+Source.zhenjiang.chicago.tacoma,9
+Source.toronto.west palm beach.west palm beach,4
+Source.yantian.chicago.west palm beach,3
+Source.cn.chicago.wilmington,4
+Source.hong kong.chicago.wilmington,2
+Source.san antonio.houston.wilmington,19
+Source.shanghai.chicago.wilmington,2
+Source.valparaiso.houston.wilmington,29
